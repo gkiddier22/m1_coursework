@@ -17,11 +17,11 @@
 
 3. Create the environment
    ```bash
-   conda env create -f m1_env.yml
+   conda env create -f m1-env.yml
 
 4. Activate the environment
    ```bash
-   conda activate m1coursework-env
+   conda activate m1-env
 
 ## Execution of code
 1. Open the notebook
