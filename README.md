@@ -1,12 +1,10 @@
 # Machine Learning Coursework
 
-## Overview
-
-
 ## Prerequisites
-1. Conda
+1. Conda for environment installation
 
 ## Files
+
 
    
 ## Installation & Environment Activation
